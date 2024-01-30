@@ -19,7 +19,7 @@ jobs:
         dotnet-version: '3.1'
 
     - name: Build and Test
-      run: dotnet build --configuration Release
+      run: dotnet build
         
     - name: Run SonarQube Analysis
       run: dotnet sonarscanner begin /k:"your-project-key" /d:sonar.login=${{ secrets.SONARQUBE_TOKEN }}
