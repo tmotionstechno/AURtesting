@@ -1,0 +1,12 @@
+D:\Manoj Jaswal\Project\AUR-Direct\Code\AUR-Retail-Web-Service\AUR.Service\bin\Debug\net7.0\AUR.Service.deps.json
+D:\Manoj Jaswal\Project\AUR-Direct\Code\AUR-Retail-Web-Service\AUR.Service\bin\Debug\net7.0\AUR.Service.dll
+D:\Manoj Jaswal\Project\AUR-Direct\Code\AUR-Retail-Web-Service\AUR.Service\bin\Debug\net7.0\AUR.Service.pdb
+D:\Manoj Jaswal\Project\AUR-Direct\Code\AUR-Retail-Web-Service\AUR.Service\obj\Debug\net7.0\AUR.Service.csproj.AssemblyReference.cache
+D:\Manoj Jaswal\Project\AUR-Direct\Code\AUR-Retail-Web-Service\AUR.Service\obj\Debug\net7.0\AUR.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Manoj Jaswal\Project\AUR-Direct\Code\AUR-Retail-Web-Service\AUR.Service\obj\Debug\net7.0\AUR.Service.AssemblyInfoInputs.cache
+D:\Manoj Jaswal\Project\AUR-Direct\Code\AUR-Retail-Web-Service\AUR.Service\obj\Debug\net7.0\AUR.Service.AssemblyInfo.cs
+D:\Manoj Jaswal\Project\AUR-Direct\Code\AUR-Retail-Web-Service\AUR.Service\obj\Debug\net7.0\AUR.Service.csproj.CoreCompileInputs.cache
+D:\Manoj Jaswal\Project\AUR-Direct\Code\AUR-Retail-Web-Service\AUR.Service\obj\Debug\net7.0\AUR.Service.dll
+D:\Manoj Jaswal\Project\AUR-Direct\Code\AUR-Retail-Web-Service\AUR.Service\obj\Debug\net7.0\refint\AUR.Service.dll
+D:\Manoj Jaswal\Project\AUR-Direct\Code\AUR-Retail-Web-Service\AUR.Service\obj\Debug\net7.0\AUR.Service.pdb
+D:\Manoj Jaswal\Project\AUR-Direct\Code\AUR-Retail-Web-Service\AUR.Service\obj\Debug\net7.0\ref\AUR.Service.dll

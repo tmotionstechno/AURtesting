@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1B2iuXdh3LSYwloNC5uL8NpYNqxPpkkfo0YtB/X0jIw=",
+  "Source": "AUR.RetailWebService",
+  "BasePath": "_content/AUR.RetailWebService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
